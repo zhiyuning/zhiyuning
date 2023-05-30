@@ -10,7 +10,9 @@
 </div>
 
 <h2 align="center">💻 Tech Stack:</h2>
-// placeholder
+<div align="center">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=react%2Creact%2Ca46936%3Bangular%2Cangular%2C6c696c%3Bcss%2Ccss%2C3fb360%3BHTML%2CHTML%2C96bb18%3BJAVA%2CJAVA%2Ca6a008%3BJAVASCRIPT%2Cjavascript%2Cd7977f%3Bdjango%2Cdjango%2Cc91d2e%3Bpython%2Cpython%2C04ff00%3Bnpm%2Cnpm%2C226a02%3Bdocker%2Cdocker%2C34c4ca%3Bmysql%2Cmysql%2C2ae282%3Bbootstrap%2Cbootstrap%2C548bba%3Bheroku%2Cheroku%2Cbf8bb7%3BREST+API%2CREST+API%2C2e8065%3BGIT%2CGIT+%2Ce11c1a%3BLinux%2CLinux%2C3f6fe1%3B" alt="My Tech Stack" />
+</div>
 
 <h2 align="center">📊 GitHub Stats:</h2>
 <div align="center">
