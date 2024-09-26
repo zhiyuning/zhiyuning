@@ -3,7 +3,7 @@
 <h2 align="center">💫 About Me:</h2>
 <div align="center">
 <img src="https://visitcount.itsvg.in/api?id=zhiyuning&icon=0"><br>
-👨‍💻 I am a Second Year Master's Student at NYU Tandon School of Engineering<br>
+👨‍💻 I am a Graduate Student at NYU Tandon School of Engineering<br>
 🤔 I obtained my bachelor's degree in University of California, Santa Barbara in Computer Science <br>
 📫 How to reach me <a href="mailto:nzy1019@gmail.com">nzy1019@gmail.com</a><br>
 😄 My LinkedIn <a href="https://www.linkedin.com/in/zhiyu-ning-entro/">linkedin.com/in/zhiyu-ning-entro/</a><br>
